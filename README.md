@@ -4,7 +4,8 @@
 
 ## Installation
 
-
+Please note that this is a game built for the Windows platform. I cannot ensure that the game will work on other platforms, so please be aware of that.
+You can run the game by going through the folders "OtherDocuments" --> "GracefulReminderProgram" and double click the "GracefulReminder - Unity" executable.
 
 ## Script terms & definitions
 
