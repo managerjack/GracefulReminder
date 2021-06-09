@@ -86,4 +86,34 @@
 
 **enabled**: It's a keyword that is used to turn a component on or off depending on the set value ('True' = component is enabled, 'False' = component is disabled).
 
+**Button**: A standard button that can be clicked in order to trigger an event. It's a physical component in the scene that can be clicked upon and you can assign events to the button when clicking trigger happens. 
 
+**GameObject.SetActive()**: Activates/Deactivates the GameObject, depending on the given true or false value.
+
+**Input.anyKey**: Checks if any key or mouse button is currently held down.
+
+**Input.GetKey()**: Returns true while the user holds down the key identified by name.
+
+**Input.GetKeyDown()**: Returns true during the frame the user starts pressing down the key identified by name.
+
+**KeyCode**: Representation of the different key inputs.
+
+**Text.text**: The string value this Text displays.
+
+**Time.timeScale**: The scale at which time passes. This can be used for slow motion effects or to speed up your application. When timeScale is 1.0, time passes as fast as real time. When timeScale is 0.5 time passes 2x slower than realtime.
+
+**Time.deltaTime**: The interval in seconds from the last frame to the current one.
+
+**void OnSendClicked()**: It's a click event for whenever the user clicks on the 'Send' button.
+
+**RigidBody2D**: Rigidbody physics component for 2D sprites.
+
+**Rigidbody2D.AddForce()**: Apply a force to the rigidbody. The force is specified as two separate components in the X and Y directions (there is no Z direction in 2D physics). The object will be accelerated by the force according to the law force = mass x acceleration - the larger the mass, the greater the force required to accelerate to a given speed.
+
+**ForceMode2D.Impulse**: Add an instant force impulse to the rigidbody2D, using its mass.
+
+**Random.Range**: Returns a random float within [minInclusive..maxInclusive] (range is inclusive).
+
+**Quaternion.Euler**: Returns a rotation that rotates z degrees around the z axis, x degrees around the x axis, and y degrees around the y axis; applied in that order.
+
+**Vector3.MoveTowards**: Calculate a position between the points specified by current and target, moving no farther than the distance specified by maxDistanceDelta.
