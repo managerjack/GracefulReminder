@@ -2,11 +2,11 @@
 
 (Click "Assets" --> "Scripts" to navigate towards the scripts used in the game)
 
-Installation
+## Installation
 
 
 
-Script terms & definitions
+## Script terms & definitions
 
 "using System.Collections": Contains interfaces and classes that define various collections of objects, such as lists, queues, bit arrays, hash tables and dictionaries.
 
