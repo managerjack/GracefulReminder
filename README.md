@@ -1,4 +1,11 @@
 # GratefulReminder
 
+(Click "Assets" --> "Scripts" to navigate towards the scripts used in the game)
 
- wrgwrgwrg
+Installation
+
+
+
+Script terms & definitions
+
+
